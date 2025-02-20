@@ -7,8 +7,8 @@ Utilizar apuntadores en lenguaje C para acceder a las localidades de memoria tan
 datos primitivos como de arreglos.
 
 ## Actividades:
-▪ Crear apuntadores.
-▪ Leer y modificar datos a través de apuntadores
+* Crear apuntadores.
+* Leer y modificar datos a través de apuntadores
 
 
 
