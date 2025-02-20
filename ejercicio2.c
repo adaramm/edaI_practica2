@@ -13,6 +13,13 @@ int main () {
   // imprime la dirección de memoria almacenada en el apuntador apArr
   printf("Dirección almacenada en el apuntador: %x\n",apArr);
 
+
+  printf("*apArr = %i\n",*apArr);
+  // suma una localidad al inicio del arreglo e imprime su valor
+  printf("*(apArr+1) = %i\n",*(apArr+1));
+  printf("*(apArr+2) = %i\n",*(apArr+2));
+ // Escribe una línea de código para mostrar el valor apuntado por apArr
+ 
   printf("Recorriendo el arreglo usando un apuntador:\n");
   for (int i = 0; i < 5; i++) {
     printf("Elemento %d: %d\n", i, *(ptr + i));
