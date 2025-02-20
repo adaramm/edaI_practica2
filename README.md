@@ -13,11 +13,11 @@ datos primitivos como de arreglos.
 
 
 ### Ejercicios
-1. **Accediendo a la Memoria:** Escribe un programa que imprima la dirección de memoria de cada elemento de un arreglo de enteros.
-2. **Intercambio de Valores:** Implementa una función que intercambie dos valores de un arreglo usando apuntadores.
-3. **Sumatoria con Apuntadores:** Escribe un programa que calcule la suma de los elementos de un arreglo utilizando solo apuntadores.
-4. **Ordenamiento con Apuntadores:** Implementa el algoritmo de ordenamiento de burbuja utilizando apuntadores.
-5. **Buscar en un Arreglo:** Crea un programa que permita buscar un número dentro de un arreglo y devuelva su dirección de memoria.
+7. **Accediendo a la Memoria:** Escribe un programa que imprima la dirección de memoria de cada elemento de un arreglo de enteros.
+8. **Intercambio de Valores:** Implementa una función que intercambie dos valores de un arreglo usando apuntadores.
+9. **Sumatoria con Apuntadores:** Escribe un programa que calcule la suma de los elementos de un arreglo utilizando solo apuntadores.
+10. **Ordenamiento con Apuntadores:** Implementa el algoritmo de ordenamiento de burbuja utilizando apuntadores.
+11. **Buscar en un Arreglo:** Crea un programa que permita buscar un número dentro de un arreglo y devuelva su dirección de memoria.
 
 ---
 
